@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+P001,Laptop,Electronics,800.0
+P002,Wireless Mouse,Accessories,25.0
+P003,Keyboard,Accessories,45.0
+P004,Monitor,Electronics,250.0
+P005,USB-C Hub,Accessories,35.0
+P006,Headphones,Electronics,90.0
+P007,Webcam,Electronics,70.0
+P008,Office Chair,Furniture,180.0
+P009,Desk Lamp,Furniture,40.0
+P010,External SSD,Storage,120.0
